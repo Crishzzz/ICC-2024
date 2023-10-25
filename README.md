@@ -4,4 +4,4 @@ Zhijian Zheng, Ming Zhou, Peng Zhang, Xugong Qin, Sixue Lu; A Deep Learning Intr
 ## Environment
 
 ## Contact
-If you have any question or improve ideas, Please contact us: zhengzhijian@njust.edu.cn, extremely grateful !
+If you have any question or improve ideas, please contact us: zhengzhijian@njust.edu.cn, extremely grateful !
